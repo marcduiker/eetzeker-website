@@ -20,7 +20,5 @@
         class="text-gray-800 font-bold hover:text-primary text-lg text-center w-full no-underline sm:hidden py-2"
         target="_blank" rel="noopener">{{ item.title }}</a>
     {% endfor %}
-    <a class="text-gray-800 border border-primaryDark text-lg bg-green300Accent rounded-full w-auto no-underline text-center sm:text-left hover:border-black hover:text-white hover:bg-secondary hover:shadow-md px-6 py-1 my-2 sm:my-0 sm:ml-4"
-      href="{% if isFront %}#register{% else %}{{ env.baseUrl }}#register{% endif %}">Register Now</a>
   </div>
 </nav>
