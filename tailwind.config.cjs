@@ -32,6 +32,22 @@ module.exports = {
       indigo: colors.indigo,
       purple: colors.violet,
       pink: colors.pink,
+
+      primary: "#5CC427",  // Primary: #5CC427 
+      primaryDark: "#4CA321", // PrimaryDark #4CA321 
+      primaryLight: "#b2e29a", // PrimaryLight #b2e29a 
+      secondary: "#F7A325", // Secondary #F7A325 
+      tertiary: "#3B8EC4", // Tertiary #3B8EC4 
+      orange100Accent: "#FFA41E", // Orange100Accent #FFA41E
+      orange200Accent: "#E3B46F", // Orange200Accent #E3B46F
+      orange300Accent: "#EFD2A7", // Orange300Accent #EFD2A7 
+      blue100Accent: "#3b8dc4", // Blue100Accent #3b8dc4
+      blue200Accent: "#69c7ed", // Blue200Accent #69c7ed
+      blue300Accent: "#e3f6fc", // Blue300Accent #e3f6fc
+      green100Accent: "#9DE47C", // Green100Accent #9DE47C
+      green200Accent: "#D1EEC2", // Green200Accent #D1EEC2
+      green300Accent: "#EDF8E6", // Green300Accent #EDF8E6
+
     },
     spacing: {
       px: '1px',
